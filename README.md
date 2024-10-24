@@ -1,4 +1,4 @@
-# SketchifyMe
+# ScribbleSpace-X
 
 ScribbleSpace X is an evolving, feature-rich freehand sketching web application inspired by tools like Excalidraw. It’s designed to offer a seamless canvas experience with powerful sketching functionalities. While still in progress, the application will soon include additional exciting features outlined below.
 
@@ -16,7 +16,7 @@ ScribbleSpace X is an evolving, feature-rich freehand sketching web application 
 - Zoom and scroll functionality
 
 ## Installation 🛠️
-To get started with SketchifyMe, follow these steps:
+To get started with ScribbleSpace-X, follow these steps:
 
 ### Prerequisites
 - Yarn: A package manager to install dependencies.
