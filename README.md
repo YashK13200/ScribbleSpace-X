@@ -23,7 +23,7 @@ To get started with SketchifyMe, follow these steps:
 
 ## Clone the Repository
 ```
-git clone https://github.com/Ajeet1606/sketchify.git
+git clone https://github.com/YashK13200/ScribbleSpace-X.git
 cd sketchify
 ```
 
