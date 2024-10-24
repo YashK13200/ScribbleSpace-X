@@ -24,7 +24,7 @@ To get started with ScribbleSpace-X, follow these steps:
 ## Clone the Repository
 ```
 git clone https://github.com/YashK13200/ScribbleSpace-X.git
-cd sketchify
+cd ScribbleSpace-X
 ```
 
 ## Install Dependencies
